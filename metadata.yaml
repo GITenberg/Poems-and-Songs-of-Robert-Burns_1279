@@ -1,0 +1,32 @@
+_repo: Poems-and-Songs-of-Robert-Burns_1279
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burns, Robert
+    birthdate: 1759
+    deathdate: 1796
+    gutenberg_agent_id: '583'
+    url: http://www.gutenberg.org/2009/agents/583
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Burns
+description: There was a lad - The cotter's saturday night - Scots, wha hae - Address
+  to a haggis - Is there for honest poverty - Tam o'Shanter - Mary Morison - To a
+  mountain daisy - To a mouse - To a louse - Epistle to a young friend - Holy Willie's
+  prayer - Address to the Unco Guid - Of a' the airts - A red, red rose - Sweet afton
+  - Ae fond kiss - The banks of Doon - O, wert thou in the cauld blast - Auld lang
+  syne.
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2005-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1279'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Songs, Scots -- Scotland -- Texts'
+- !lcc 'PR'
+- !lcsh 'Scotland -- Poetry'
+- GITenberg
+title: Poems and Songs of Robert Burns
+url: http://www.gutenberg.org/ebooks/1279
