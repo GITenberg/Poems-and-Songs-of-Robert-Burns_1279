@@ -1,5 +1,8 @@
 _repo: Poems-and-Songs-of-Robert-Burns_1279
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Burns, Robert
@@ -14,6 +17,8 @@ description: There was a lad - The cotter's saturday night - Scots, wha hae - Ad
   prayer - Address to the Unco Guid - Of a' the airts - A red, red rose - Sweet afton
   - Ae fond kiss - The banks of Doon - O, wert thou in the cauld blast - Auld lang
   syne.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1279#Poems-and-Songs-of-Robert-Burns
 gutenberg_bookshelf: Harvard Classics
 gutenberg_issued: '2005-01-25'
 gutenberg_type: Text
